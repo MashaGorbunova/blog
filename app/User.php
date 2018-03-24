@@ -30,4 +30,9 @@ class User extends Authenticatable
     function test(){
 
     }
+
+    function test1()
+    {
+        die();
+    }
 }
