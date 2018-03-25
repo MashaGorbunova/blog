@@ -28,6 +28,6 @@ class User extends Authenticatable
     ];
     
     function test1(){
-        die();
+        die('qwerty');
     }
 }
